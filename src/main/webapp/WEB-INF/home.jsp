@@ -21,6 +21,6 @@
 <body>
 	<h2><b>Jenkins에 Maven Project 배포 연습</b></h2>
 	<h5>안녕?? ㅇㅅㅇ??</h5>
-	<a href="https://www.naver.com/"></a>
+	<a href="https://www.naver.com/">네이버 ㄱㄱ</a>
 </body>
 </html>
